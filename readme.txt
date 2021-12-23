@@ -1,0 +1,2 @@
+Replace w_me_machette_lr.ydr , w_me_machette_lr.ytd ,  w_me_machette_lr+hi.ytd in GTAV/update/x64/dlcpacks/patchday8ng/dlc.rpf/x64/models/cdimages/weapons.rpf .
+Replace w_me_machette_lr.ytd ,  w_me_machette_lr+hi.ytd in GTAV/update/x64/dlcpacks/mplowrider/dlc.rpf/x64/models/cdimages/weapons.rpf .
